@@ -1,4 +1,4 @@
-package ru.churneya.downloader.twitter
+package ru.churneya.downloader.twitterscarper
 
 class Main
 
